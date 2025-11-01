@@ -3,7 +3,7 @@
 **PioGreen** is a mobile application that uses Artificial Intelligence and Machine Learning to promote sustainable agriculture.  
 It helps identify plants, detect plant diseases, and classify sustainable farming methods — aiming to make farming more efficient, data-driven, and eco-friendly.
 
----
+
 
 ## 📘 Project Overview
 
@@ -15,7 +15,7 @@ The app has three core modules:
 2. **Plant Disease Detection** – Detect plant leaf diseases and provide information on symptoms and prevention.  
 3. **Sustainable Farming Classifier** – Suggest sustainable farming practices based on plant and crop data.
 
----
+
 
 ## 🎯 Objectives
 
@@ -24,7 +24,7 @@ The app has three core modules:
 - Encourage sustainable practices through intelligent recommendations.  
 - Help farmers and students learn about sustainable farming with technology.
 
----
+
 
 ## 🚀 Features
 
@@ -34,7 +34,7 @@ The app has three core modules:
 | 🍂 **Plant Disease Detection** | Detects crop diseases from leaves | PlantVillage (Kaggle) | CNN (ResNet50 / EfficientNet) |
 | 🌾 **Sustainable Farming Classifier** | Classifies farm fields as sustainable or not | Sustainable Farm Dataset / EuroSAT | Binary CNN Classifier |
 
----
+
 
 ## 🧠 How It Works
 
@@ -47,7 +47,7 @@ The app has three core modules:
    - Sustainability score  
    - Eco-friendly farming tips  
 
----
+
 
 
 ## 🎨 App UI Structure
@@ -60,7 +60,7 @@ The app has three core modules:
 | 📊 **Result Dashboard** | Shows identified plant, disease, sustainability score, and eco-tips |
 | 🌿 **Tips Section** | Curated and AI-generated sustainable farming recommendations |
 
----
+
 
 ## ⚙️ Tech Stack
 
@@ -73,7 +73,7 @@ The app has three core modules:
 | **Database (Optional)** | Firebase Realtime / Firestore |
 | **Image Processing** | OpenCV / Pillow |
 
----
+
 
 ## 🧩 Datasets
 
@@ -83,7 +83,7 @@ The app has three core modules:
 | **Disease Detection** | PlantVillage | ~54K | 38 | [Kaggle Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease) |
 | **Sustainability Detection** | Sustainable vs Non-Sustainable Farms | ~27K | 2 | [Kaggle Dataset](https://www.kaggle.com/datasets/d4rklucif3r/sustainable-vs-non-sustainable-farms) |
 
----
+
 
 ## 🔧 Model Training Summary
 
@@ -104,7 +104,7 @@ The app has three core modules:
    - Quantization (for smaller mobile model size)
    - Integrated using `tflite_flutter` plugin in Flutter
 
----
+
 
 ## 🌍 Sustainability Impact
 
@@ -115,7 +115,7 @@ The app has three core modules:
 
 By empowering farmers and agri-students with plant health and eco-awareness insights, it promotes a **greener, smarter future**.
 
----
+
 
 ## 📊 Sample Output
 
@@ -126,7 +126,7 @@ By empowering farmers and agri-students with plant health and eco-awareness insi
 🌾 Sustainability: Sustainable (Eco Index: 0.82)
 💡 Suggestion: Use neem extract spray and organic compost.
 
----
+
 
 ## 💡 Future Enhancements
 - 📍 Geo-tagging farms using location data  
@@ -134,17 +134,14 @@ By empowering farmers and agri-students with plant health and eco-awareness insi
 - 🧬 Crop growth tracker for recurring scans  
 - 🔔 Push notifications with eco-farming reminders  
 
----
+
 
 ## 🧑‍💻 Author
 **👩‍💻 Vidhi N. Pateliya**  
 Final Year, Computer Science Engineering (AI Specialization)  
 Developed as part of Internship Project on *Sustainability & AI*  
  
----
+
  
-
----
-
 ## ✨ Tagline
-> “**Plantoneer** — Pioneering Green Intelligence for a Sustainable Tomorrow.” 🌍💚
+> “**PioGreen** — Pioneering Green Intelligence for a Sustainable Tomorrow.” 🌍💚
